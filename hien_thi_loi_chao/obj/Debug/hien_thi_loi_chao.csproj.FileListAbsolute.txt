@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\hien_thi_loi_chao\bin\Debug\hien_thi_loi_chao.exe.config
+D:\C# project\bt_codegym\hien_thi_loi_chao\bin\Debug\hien_thi_loi_chao.exe
+D:\C# project\bt_codegym\hien_thi_loi_chao\bin\Debug\hien_thi_loi_chao.pdb
+D:\C# project\bt_codegym\hien_thi_loi_chao\obj\Debug\hien_thi_loi_chao.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\hien_thi_loi_chao\obj\Debug\hien_thi_loi_chao.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\hien_thi_loi_chao\obj\Debug\hien_thi_loi_chao.exe
+D:\C# project\bt_codegym\hien_thi_loi_chao\obj\Debug\hien_thi_loi_chao.pdb
