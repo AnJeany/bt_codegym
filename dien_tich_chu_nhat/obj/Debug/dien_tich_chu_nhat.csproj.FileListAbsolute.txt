@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\dien_tich_chu_nhat\bin\Debug\dien_tich_chu_nhat.exe.config
+D:\C# project\bt_codegym\dien_tich_chu_nhat\bin\Debug\dien_tich_chu_nhat.exe
+D:\C# project\bt_codegym\dien_tich_chu_nhat\bin\Debug\dien_tich_chu_nhat.pdb
+D:\C# project\bt_codegym\dien_tich_chu_nhat\obj\Debug\dien_tich_chu_nhat.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\dien_tich_chu_nhat\obj\Debug\dien_tich_chu_nhat.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\dien_tich_chu_nhat\obj\Debug\dien_tich_chu_nhat.exe
+D:\C# project\bt_codegym\dien_tich_chu_nhat\obj\Debug\dien_tich_chu_nhat.pdb

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bt_codegym", "bt_codegym\bt_codegym.csproj", "{C2337A65-6245-40AD-B9CB-FCF17041A273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dien_tich_chu_nhat", "dien_tich_chu_nhat\dien_tich_chu_nhat.csproj", "{ACD4FC47-E5D2-429C-BE27-FA41C2EC79A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C2337A65-6245-40AD-B9CB-FCF17041A273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2337A65-6245-40AD-B9CB-FCF17041A273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2337A65-6245-40AD-B9CB-FCF17041A273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD4FC47-E5D2-429C-BE27-FA41C2EC79A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD4FC47-E5D2-429C-BE27-FA41C2EC79A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD4FC47-E5D2-429C-BE27-FA41C2EC79A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD4FC47-E5D2-429C-BE27-FA41C2EC79A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

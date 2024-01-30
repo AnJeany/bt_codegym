@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C2337A65-6245-40AD-B9CB-FCF17041A273}</ProjectGuid>
+    <ProjectGuid>{ACD4FC47-E5D2-429C-BE27-FA41C2EC79A9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>bt_codegym</RootNamespace>
-    <AssemblyName>bt_codegym</AssemblyName>
+    <RootNamespace>dien_tich_chu_nhat</RootNamespace>
+    <AssemblyName>dien_tich_chu_nhat</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="pt_bac_mot.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
