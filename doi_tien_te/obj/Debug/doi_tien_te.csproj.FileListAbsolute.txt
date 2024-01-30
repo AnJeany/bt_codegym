@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\doi_tien_te\bin\Debug\doi_tien_te.exe.config
+D:\C# project\bt_codegym\doi_tien_te\bin\Debug\doi_tien_te.exe
+D:\C# project\bt_codegym\doi_tien_te\bin\Debug\doi_tien_te.pdb
+D:\C# project\bt_codegym\doi_tien_te\obj\Debug\doi_tien_te.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\doi_tien_te\obj\Debug\doi_tien_te.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\doi_tien_te\obj\Debug\doi_tien_te.exe
+D:\C# project\bt_codegym\doi_tien_te\obj\Debug\doi_tien_te.pdb
