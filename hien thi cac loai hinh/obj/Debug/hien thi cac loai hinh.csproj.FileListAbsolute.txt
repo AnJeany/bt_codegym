@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\hien thi cac loai hinh\bin\Debug\hien thi cac loai hinh.exe.config
+D:\C# project\bt_codegym\hien thi cac loai hinh\bin\Debug\hien thi cac loai hinh.exe
+D:\C# project\bt_codegym\hien thi cac loai hinh\bin\Debug\hien thi cac loai hinh.pdb
+D:\C# project\bt_codegym\hien thi cac loai hinh\obj\Debug\hien thi cac loai hinh.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\hien thi cac loai hinh\obj\Debug\hien thi cac loai hinh.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\hien thi cac loai hinh\obj\Debug\hien thi cac loai hinh.exe
+D:\C# project\bt_codegym\hien thi cac loai hinh\obj\Debug\hien thi cac loai hinh.pdb
