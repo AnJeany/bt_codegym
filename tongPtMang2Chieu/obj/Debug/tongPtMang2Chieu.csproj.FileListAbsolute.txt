@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\tongPtMang2Chieu\bin\Debug\tongPtMang2Chieu.exe.config
+D:\C# project\bt_codegym\tongPtMang2Chieu\bin\Debug\tongPtMang2Chieu.exe
+D:\C# project\bt_codegym\tongPtMang2Chieu\bin\Debug\tongPtMang2Chieu.pdb
+D:\C# project\bt_codegym\tongPtMang2Chieu\obj\Debug\tongPtMang2Chieu.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\tongPtMang2Chieu\obj\Debug\tongPtMang2Chieu.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\tongPtMang2Chieu\obj\Debug\tongPtMang2Chieu.exe
+D:\C# project\bt_codegym\tongPtMang2Chieu\obj\Debug\tongPtMang2Chieu.pdb
