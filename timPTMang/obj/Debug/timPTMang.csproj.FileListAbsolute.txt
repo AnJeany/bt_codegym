@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\timPTMang\bin\Debug\timPTMang.exe.config
+D:\C# project\bt_codegym\timPTMang\bin\Debug\timPTMang.exe
+D:\C# project\bt_codegym\timPTMang\bin\Debug\timPTMang.pdb
+D:\C# project\bt_codegym\timPTMang\obj\Debug\timPTMang.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\timPTMang\obj\Debug\timPTMang.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\timPTMang\obj\Debug\timPTMang.exe
+D:\C# project\bt_codegym\timPTMang\obj\Debug\timPTMang.pdb
