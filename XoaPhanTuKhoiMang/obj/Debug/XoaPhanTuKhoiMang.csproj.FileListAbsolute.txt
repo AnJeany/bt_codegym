@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\XoaPhanTuKhoiMang\bin\Debug\XoaPhanTuKhoiMang.exe.config
+D:\C# project\bt_codegym\XoaPhanTuKhoiMang\bin\Debug\XoaPhanTuKhoiMang.exe
+D:\C# project\bt_codegym\XoaPhanTuKhoiMang\bin\Debug\XoaPhanTuKhoiMang.pdb
+D:\C# project\bt_codegym\XoaPhanTuKhoiMang\obj\Debug\XoaPhanTuKhoiMang.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\XoaPhanTuKhoiMang\obj\Debug\XoaPhanTuKhoiMang.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\XoaPhanTuKhoiMang\obj\Debug\XoaPhanTuKhoiMang.exe
+D:\C# project\bt_codegym\XoaPhanTuKhoiMang\obj\Debug\XoaPhanTuKhoiMang.pdb

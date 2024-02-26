@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuyenDoiNhietDo", "ChuyenD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriNhoNhat", "GiaTriNhoNhat\GiaTriNhoNhat.csproj", "{9B97509B-73CE-4CEF-98B1-4F2988D3899A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XoaPhanTuKhoiMang", "XoaPhanTuKhoiMang\XoaPhanTuKhoiMang.csproj", "{331F0FB7-FD9C-442B-98D0-9535C66960D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9B97509B-73CE-4CEF-98B1-4F2988D3899A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B97509B-73CE-4CEF-98B1-4F2988D3899A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B97509B-73CE-4CEF-98B1-4F2988D3899A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331F0FB7-FD9C-442B-98D0-9535C66960D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331F0FB7-FD9C-442B-98D0-9535C66960D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331F0FB7-FD9C-442B-98D0-9535C66960D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331F0FB7-FD9C-442B-98D0-9535C66960D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
