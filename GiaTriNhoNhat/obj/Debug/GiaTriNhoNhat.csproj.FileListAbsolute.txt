@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\GiaTriNhoNhat\bin\Debug\GiaTriNhoNhat.exe.config
+D:\C# project\bt_codegym\GiaTriNhoNhat\bin\Debug\GiaTriNhoNhat.exe
+D:\C# project\bt_codegym\GiaTriNhoNhat\bin\Debug\GiaTriNhoNhat.pdb
+D:\C# project\bt_codegym\GiaTriNhoNhat\obj\Debug\GiaTriNhoNhat.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\GiaTriNhoNhat\obj\Debug\GiaTriNhoNhat.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\GiaTriNhoNhat\obj\Debug\GiaTriNhoNhat.exe
+D:\C# project\bt_codegym\GiaTriNhoNhat\obj\Debug\GiaTriNhoNhat.pdb

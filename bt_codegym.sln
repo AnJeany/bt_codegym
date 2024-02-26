@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tongPtMang2Chieu", "tongPtM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuyenDoiNhietDo", "ChuyenDoiNhietDo\ChuyenDoiNhietDo.csproj", "{09943476-27AA-4506-A98F-475385CBDF0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriNhoNhat", "GiaTriNhoNhat\GiaTriNhoNhat.csproj", "{9B97509B-73CE-4CEF-98B1-4F2988D3899A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{09943476-27AA-4506-A98F-475385CBDF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09943476-27AA-4506-A98F-475385CBDF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09943476-27AA-4506-A98F-475385CBDF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B97509B-73CE-4CEF-98B1-4F2988D3899A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B97509B-73CE-4CEF-98B1-4F2988D3899A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B97509B-73CE-4CEF-98B1-4F2988D3899A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B97509B-73CE-4CEF-98B1-4F2988D3899A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
