@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\ChuyenDoiNhietDo\bin\Debug\ChuyenDoiNhietDo.exe.config
+D:\C# project\bt_codegym\ChuyenDoiNhietDo\bin\Debug\ChuyenDoiNhietDo.exe
+D:\C# project\bt_codegym\ChuyenDoiNhietDo\bin\Debug\ChuyenDoiNhietDo.pdb
+D:\C# project\bt_codegym\ChuyenDoiNhietDo\obj\Debug\ChuyenDoiNhietDo.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\ChuyenDoiNhietDo\obj\Debug\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\ChuyenDoiNhietDo\obj\Debug\ChuyenDoiNhietDo.exe
+D:\C# project\bt_codegym\ChuyenDoiNhietDo\obj\Debug\ChuyenDoiNhietDo.pdb
