@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaTriNhoNhat", "GiaTriNhoN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XoaPhanTuKhoiMang", "XoaPhanTuKhoiMang\XoaPhanTuKhoiMang.csproj", "{331F0FB7-FD9C-442B-98D0-9535C66960D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemKyTu", "DemKyTu\DemKyTu.csproj", "{B2DB4FBF-3390-448B-AE3E-421FBF37DDE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lopHinhChuNhat", "lopHinhChuNhat\lopHinhChuNhat.csproj", "{81377733-7799-44C0-930F-8BCF7F61619C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{331F0FB7-FD9C-442B-98D0-9535C66960D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{331F0FB7-FD9C-442B-98D0-9535C66960D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{331F0FB7-FD9C-442B-98D0-9535C66960D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DB4FBF-3390-448B-AE3E-421FBF37DDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DB4FBF-3390-448B-AE3E-421FBF37DDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DB4FBF-3390-448B-AE3E-421FBF37DDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DB4FBF-3390-448B-AE3E-421FBF37DDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81377733-7799-44C0-930F-8BCF7F61619C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81377733-7799-44C0-930F-8BCF7F61619C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81377733-7799-44C0-930F-8BCF7F61619C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81377733-7799-44C0-930F-8BCF7F61619C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

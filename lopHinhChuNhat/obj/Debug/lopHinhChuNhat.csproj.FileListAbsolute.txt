@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\lopHinhChuNhat\bin\Debug\lopHinhChuNhat.exe.config
+D:\C# project\bt_codegym\lopHinhChuNhat\bin\Debug\lopHinhChuNhat.exe
+D:\C# project\bt_codegym\lopHinhChuNhat\bin\Debug\lopHinhChuNhat.pdb
+D:\C# project\bt_codegym\lopHinhChuNhat\obj\Debug\lopHinhChuNhat.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\lopHinhChuNhat\obj\Debug\lopHinhChuNhat.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\lopHinhChuNhat\obj\Debug\lopHinhChuNhat.exe
+D:\C# project\bt_codegym\lopHinhChuNhat\obj\Debug\lopHinhChuNhat.pdb
