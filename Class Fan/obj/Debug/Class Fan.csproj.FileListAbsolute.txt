@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\Class Fan\bin\Debug\Class Fan.exe.config
+D:\C# project\bt_codegym\Class Fan\bin\Debug\Class Fan.exe
+D:\C# project\bt_codegym\Class Fan\bin\Debug\Class Fan.pdb
+D:\C# project\bt_codegym\Class Fan\obj\Debug\Class Fan.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\Class Fan\obj\Debug\Class Fan.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\Class Fan\obj\Debug\Class Fan.exe
+D:\C# project\bt_codegym\Class Fan\obj\Debug\Class Fan.pdb

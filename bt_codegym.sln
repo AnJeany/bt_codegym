@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Methob", "Static Methob\Static Methob.csproj", "{03B4CFCC-4F59-41A4-987D-2F37479D5A0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Fan", "Class Fan\Class Fan.csproj", "{CF761242-77C5-4ECF-87B6-D67F6C384134}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{03B4CFCC-4F59-41A4-987D-2F37479D5A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03B4CFCC-4F59-41A4-987D-2F37479D5A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03B4CFCC-4F59-41A4-987D-2F37479D5A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF761242-77C5-4ECF-87B6-D67F6C384134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF761242-77C5-4ECF-87B6-D67F6C384134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF761242-77C5-4ECF-87B6-D67F6C384134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF761242-77C5-4ECF-87B6-D67F6C384134}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
