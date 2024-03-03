@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\StopWatch\bin\Debug\StopWatch.exe.config
+D:\C# project\bt_codegym\StopWatch\bin\Debug\StopWatch.exe
+D:\C# project\bt_codegym\StopWatch\bin\Debug\StopWatch.pdb
+D:\C# project\bt_codegym\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\StopWatch\obj\Debug\StopWatch.exe
+D:\C# project\bt_codegym\StopWatch\obj\Debug\StopWatch.pdb

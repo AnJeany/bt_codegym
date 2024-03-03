@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\Animal\bin\Debug\Animal.exe.config
+D:\C# project\bt_codegym\Animal\bin\Debug\Animal.exe
+D:\C# project\bt_codegym\Animal\bin\Debug\Animal.pdb
+D:\C# project\bt_codegym\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\Animal\obj\Debug\Animal.exe
+D:\C# project\bt_codegym\Animal\obj\Debug\Animal.pdb
