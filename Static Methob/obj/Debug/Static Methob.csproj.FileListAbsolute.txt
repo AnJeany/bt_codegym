@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\Static Methob\bin\Debug\Static Methob.exe.config
+D:\C# project\bt_codegym\Static Methob\bin\Debug\Static Methob.exe
+D:\C# project\bt_codegym\Static Methob\bin\Debug\Static Methob.pdb
+D:\C# project\bt_codegym\Static Methob\obj\Debug\Static Methob.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\Static Methob\obj\Debug\Static Methob.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\Static Methob\obj\Debug\Static Methob.exe
+D:\C# project\bt_codegym\Static Methob\obj\Debug\Static Methob.pdb
