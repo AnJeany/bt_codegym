@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Methob", "Static Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Fan", "Class Fan\Class Fan.csproj", "{CF761242-77C5-4ECF-87B6-D67F6C384134}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeCacDoiTuongHinhHoc", "HeCacDoiTuongHinhHoc\HeCacDoiTuongHinhHoc.csproj", "{DA84D460-1911-4FBD-9132-9F95880F1A94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{CF761242-77C5-4ECF-87B6-D67F6C384134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF761242-77C5-4ECF-87B6-D67F6C384134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF761242-77C5-4ECF-87B6-D67F6C384134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA84D460-1911-4FBD-9132-9F95880F1A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA84D460-1911-4FBD-9132-9F95880F1A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA84D460-1911-4FBD-9132-9F95880F1A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA84D460-1911-4FBD-9132-9F95880F1A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

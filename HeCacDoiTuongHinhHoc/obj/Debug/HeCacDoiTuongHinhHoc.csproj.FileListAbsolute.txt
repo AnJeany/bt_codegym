@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\HeCacDoiTuongHinhHoc\bin\Debug\HeCacDoiTuongHinhHoc.exe.config
+D:\C# project\bt_codegym\HeCacDoiTuongHinhHoc\bin\Debug\HeCacDoiTuongHinhHoc.exe
+D:\C# project\bt_codegym\HeCacDoiTuongHinhHoc\bin\Debug\HeCacDoiTuongHinhHoc.pdb
+D:\C# project\bt_codegym\HeCacDoiTuongHinhHoc\obj\Debug\HeCacDoiTuongHinhHoc.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\HeCacDoiTuongHinhHoc\obj\Debug\HeCacDoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\HeCacDoiTuongHinhHoc\obj\Debug\HeCacDoiTuongHinhHoc.exe
+D:\C# project\bt_codegym\HeCacDoiTuongHinhHoc\obj\Debug\HeCacDoiTuongHinhHoc.pdb
