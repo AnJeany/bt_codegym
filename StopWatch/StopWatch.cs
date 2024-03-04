@@ -23,15 +23,24 @@ namespace StopWatch
         {
             startTime = DateTime.Now;
         }
+        public void Stop()
+        {
+            endTime = DateTime.Now;
+        }
 
-        ////public double GetStarTime ()
-        ////{
-        //    //return startTime;
-        ////}
+        public double GetElapsedTime()
+        {
+            return (endTime - startTime).TotalMilliseconds;
+        }
 
-        //public double GetEndTime()
-        //{
-        //    //return endTime;
-        //}
+        public DateTime GetStartTime()
+        {
+            return startTime;
+        }
+
+        public DateTime GetEndTime()
+        {
+            return endTime;
+        }
     }
 }

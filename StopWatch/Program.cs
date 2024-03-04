@@ -11,12 +11,15 @@ namespace StopWatch
     {
         static void Main(string[] args)
         {
+            StopWatch sw = new StopWatch();
             Random rd = new Random();
             int[] arr = new int[100000];
             for (int i = 0; i < arr.Length; i++)
             {
                 arr[i] = (int)rd.Next (500);
             }
+
+            sw.Start();
             for (int i = 0; i < arr.Length; i++)
             {
                 int minIndex = i;
@@ -34,10 +37,10 @@ namespace StopWatch
                 arr[minIndex] = arr[i];
                 arr[i] = temp;
             }
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.WriteLine(arr[i]);
-            }
+            sw.Stop();
+            Console.WriteLine("Thoi gian chay: " + sw.GetElapsedTime());
+
+            Console.ReadKey();
         }
     }
 }
