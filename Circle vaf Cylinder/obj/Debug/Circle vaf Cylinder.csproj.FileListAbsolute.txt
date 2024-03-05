@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\Circle vaf Cylinder\bin\Debug\Circle vaf Cylinder.exe.config
+D:\C# project\bt_codegym\Circle vaf Cylinder\bin\Debug\Circle vaf Cylinder.exe
+D:\C# project\bt_codegym\Circle vaf Cylinder\bin\Debug\Circle vaf Cylinder.pdb
+D:\C# project\bt_codegym\Circle vaf Cylinder\obj\Debug\Circle vaf Cylinder.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\Circle vaf Cylinder\obj\Debug\Circle vaf Cylinder.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\Circle vaf Cylinder\obj\Debug\Circle vaf Cylinder.exe
+D:\C# project\bt_codegym\Circle vaf Cylinder\obj\Debug\Circle vaf Cylinder.pdb

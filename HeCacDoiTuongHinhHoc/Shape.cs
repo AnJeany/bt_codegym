@@ -237,11 +237,8 @@ namespace HeCacDoiTuongHinhHoc
         }
 
         public override void SetLength(double length)
-
         {
-
             SetSide(length);
-
         }
 
         public override String ToString()
