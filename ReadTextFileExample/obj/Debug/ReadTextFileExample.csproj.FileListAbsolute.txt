@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\ReadTextFileExample\bin\Debug\ReadTextFileExample.exe.config
+D:\C# project\bt_codegym\ReadTextFileExample\bin\Debug\ReadTextFileExample.exe
+D:\C# project\bt_codegym\ReadTextFileExample\bin\Debug\ReadTextFileExample.pdb
+D:\C# project\bt_codegym\ReadTextFileExample\obj\Debug\ReadTextFileExample.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\ReadTextFileExample\obj\Debug\ReadTextFileExample.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\ReadTextFileExample\obj\Debug\ReadTextFileExample.exe
+D:\C# project\bt_codegym\ReadTextFileExample\obj\Debug\ReadTextFileExample.pdb

@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\Tòngile\bin\Debug\Tòngile.exe.config
+D:\C# project\bt_codegym\Tòngile\bin\Debug\Tòngile.exe
+D:\C# project\bt_codegym\Tòngile\bin\Debug\Tòngile.pdb
+D:\C# project\bt_codegym\Tòngile\obj\Debug\TongFile.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\Tòngile\obj\Debug\TongFile.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\Tòngile\obj\Debug\Tòngile.exe
+D:\C# project\bt_codegym\Tòngile\obj\Debug\Tòngile.pdb

@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\bt_codegym\bin\Debug\bt_codegym.exe.config
+D:\C# project\bt_codegym\bt_codegym\bin\Debug\bt_codegym.exe
+D:\C# project\bt_codegym\bt_codegym\bin\Debug\bt_codegym.pdb
+D:\C# project\bt_codegym\bt_codegym\obj\Debug\bt_codegym.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\bt_codegym\obj\Debug\bt_codegym.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\bt_codegym\obj\Debug\bt_codegym.exe
+D:\C# project\bt_codegym\bt_codegym\obj\Debug\bt_codegym.pdb
