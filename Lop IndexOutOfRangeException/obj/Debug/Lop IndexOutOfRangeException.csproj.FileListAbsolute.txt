@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\Lop IndexOutOfRangeException\bin\Debug\Lop IndexOutOfRangeException.exe.config
+D:\C# project\bt_codegym\Lop IndexOutOfRangeException\bin\Debug\Lop IndexOutOfRangeException.exe
+D:\C# project\bt_codegym\Lop IndexOutOfRangeException\bin\Debug\Lop IndexOutOfRangeException.pdb
+D:\C# project\bt_codegym\Lop IndexOutOfRangeException\obj\Debug\Lop IndexOutOfRangeException.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\Lop IndexOutOfRangeException\obj\Debug\Lop IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\Lop IndexOutOfRangeException\obj\Debug\Lop IndexOutOfRangeException.exe
+D:\C# project\bt_codegym\Lop IndexOutOfRangeException\obj\Debug\Lop IndexOutOfRangeException.pdb
