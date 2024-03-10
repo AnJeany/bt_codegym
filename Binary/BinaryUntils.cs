@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Binary
 {
-    internal class BinaryUntils
+    public static class BinaryUntils
     {
+        
     }
 }

@@ -10,6 +10,7 @@ namespace Binary
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

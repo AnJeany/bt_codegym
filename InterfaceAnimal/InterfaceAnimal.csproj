@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{36F1DCEF-BA84-44C9-ABE6-767E2377B77A}</ProjectGuid>
+    <ProjectGuid>{FC2AA685-E574-4B4F-8094-27C5CCF637BC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Binary</RootNamespace>
-    <AssemblyName>Binary</AssemblyName>
+    <RootNamespace>InterfaceAnimal</RootNamespace>
+    <AssemblyName>InterfaceAnimal</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BinaryUntils.cs" />
+    <Compile Include="Animal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Animal\Animal.csproj">
+      <Project>{1EFA0316-3F21-4864-9D6F-97CD22F4C083}</Project>
+      <Name>Animal</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

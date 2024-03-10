@@ -1,0 +1,11 @@
+D:\C# project\bt_codegym\InterfaceAnimal\bin\Debug\InterfaceAnimal.exe.config
+D:\C# project\bt_codegym\InterfaceAnimal\bin\Debug\InterfaceAnimal.exe
+D:\C# project\bt_codegym\InterfaceAnimal\bin\Debug\InterfaceAnimal.pdb
+D:\C# project\bt_codegym\InterfaceAnimal\bin\Debug\Animal.exe
+D:\C# project\bt_codegym\InterfaceAnimal\bin\Debug\Animal.pdb
+D:\C# project\bt_codegym\InterfaceAnimal\bin\Debug\Animal.exe.config
+D:\C# project\bt_codegym\InterfaceAnimal\obj\Debug\InterfaceAnimal.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\InterfaceAnimal\obj\Debug\InterfaceAnimal.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\InterfaceAnimal\obj\Debug\InterfaceAnimal.csproj.CopyComplete
+D:\C# project\bt_codegym\InterfaceAnimal\obj\Debug\InterfaceAnimal.exe
+D:\C# project\bt_codegym\InterfaceAnimal\obj\Debug\InterfaceAnimal.pdb
