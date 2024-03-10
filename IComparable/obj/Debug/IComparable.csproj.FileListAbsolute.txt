@@ -1,0 +1,7 @@
+D:\C# project\bt_codegym\IComparable\bin\Debug\IComparable.exe.config
+D:\C# project\bt_codegym\IComparable\bin\Debug\IComparable.exe
+D:\C# project\bt_codegym\IComparable\bin\Debug\IComparable.pdb
+D:\C# project\bt_codegym\IComparable\obj\Debug\IComparable.csproj.AssemblyReference.cache
+D:\C# project\bt_codegym\IComparable\obj\Debug\IComparable.csproj.CoreCompileInputs.cache
+D:\C# project\bt_codegym\IComparable\obj\Debug\IComparable.exe
+D:\C# project\bt_codegym\IComparable\obj\Debug\IComparable.pdb

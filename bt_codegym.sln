@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumFile", "SumFile\SumFile.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAnimal", "InterfaceAnimal\InterfaceAnimal.csproj", "{FC2AA685-E574-4B4F-8094-27C5CCF637BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable", "IComparable\IComparable.csproj", "{C2BBA354-402F-4458-9E82-2B6F20939F8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{FC2AA685-E574-4B4F-8094-27C5CCF637BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC2AA685-E574-4B4F-8094-27C5CCF637BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC2AA685-E574-4B4F-8094-27C5CCF637BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BBA354-402F-4458-9E82-2B6F20939F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BBA354-402F-4458-9E82-2B6F20939F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BBA354-402F-4458-9E82-2B6F20939F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BBA354-402F-4458-9E82-2B6F20939F8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
