@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace btAbstract1
 {
-    public class Rectangle : Shape
+    public class Rectangle : Shape, IResizeable
     {
         private double width = 1.0;
         private double length = 1.0;
@@ -57,6 +57,11 @@ namespace btAbstract1
             return 2 * (width + this.length);
         }
 
+        public void Resize(double percent)
+        {
+            length *= percent;
+        }
+
         public override string ToString()
         {
             return "A Rectangle with width="
@@ -66,5 +71,7 @@ namespace btAbstract1
                     + ", which is a subclass of "
                     + base.ToString();
         }
+
+
     }
 }

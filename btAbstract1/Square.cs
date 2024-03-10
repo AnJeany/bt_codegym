@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace btAbstract1
 {
-    public class Square : Rectangle
+    public class Square : Rectangle, IResizeable
     {
         public Square()
         {
@@ -38,6 +38,11 @@ namespace btAbstract1
         public override void setLength(double length)
         {
             setSide(length);
+        }
+
+        public void Resize (double percent)
+        {
+            getLength();
         }
 
         public override string ToString()

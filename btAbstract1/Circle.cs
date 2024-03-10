@@ -44,6 +44,13 @@ namespace btAbstract1
             return 2 * radius * Math.PI;
         }
 
+        public void Resize(double percent)
+        {
+            percent = 2.9;
+            radius *= percent;
+            setRadius(radius);
+        }
+
         public override string ToString()
         {
             return "A Circle with radius="
@@ -52,11 +59,6 @@ namespace btAbstract1
                     + base.ToString();
         }
 
-        public void Resize(double percent)
-        {
-            percent = 2.9;
-            radius *= percent;
-            setRadius(radius);
-        }
+
     }
 }
